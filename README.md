@@ -1,5 +1,10 @@
 # covid-tracker-app
 
+##You can see the app here
+```
+https://milantrpchevski.github.io/covid-tracker-app/
+```
+
 ## Project setup
 ```
 npm install
